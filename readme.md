@@ -1,5 +1,5 @@
 Usage:
-1. Install prereqs: `brew install dotnet-sdk`
+1. Install prereqs: `brew install dotnet-sdk`, `dotnet tool install --global dotnet-ef`
 2. Clone repo, cd to repo folder.
 3. Install postgres.
 4. Edit file Infra/ApplicationDbContext.cs with the correct connection string.
